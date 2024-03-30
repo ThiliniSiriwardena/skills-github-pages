@@ -17,3 +17,6 @@ description: A programmer at heart. Analyzing stuff 24/7
 # baseurl is the website's URL without the hostname
 url: https://ThiliniSiriwardena.github.io
 #baseurl: "/projectname"
+
+author:
+  name: Thilini Siriwardena
