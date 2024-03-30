@@ -1,5 +1,19 @@
 theme: jekyll-theme-cayman
 #remote_theme: pages-themes/cayman@v0.2.0
-title: Thilini's Blog
-#description: [A programmer at heart. Analyzing stuff 24/7]
+
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+
+# Name of your site
+name: Thilini's Blog
+
+# Name of website (site.title)
+title: Thilini's Blog
+
+# Short description of your site
+#description: [A programmer at heart. Analyzing stuff 24/7]
+description: A programmer at heart. Analyzing stuff 24/7
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+url: https://ThiliniSiriwardena.github.io
+#baseurl: "/projectname"
