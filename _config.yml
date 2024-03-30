@@ -20,7 +20,7 @@ url: https://ThiliniSiriwardena.github.io
 
 #This removes the "View on Github" button
 github:
-  #is_project_page: false
+  is_project_page: false
 
 github_profile:
 #  url: https://github.com/odan
