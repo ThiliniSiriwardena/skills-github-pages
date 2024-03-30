@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout:posts
+layout: posts
 Description: Blog2
 ---
 gibberish
