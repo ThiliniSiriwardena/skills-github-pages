@@ -13,10 +13,6 @@ layout: default
 </a>
 <br>
 
-<p>
-    {% include adsense.html %}
-</p>
-
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h2 class="blog-year" id="{{ year.name }}">{{ year.name }}</h2>
@@ -47,4 +43,3 @@ layout: default
     });
 </script>
 
-{% include adsense.html %}
