@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+
 ---
 gibberish
 ok\ something is wrong\
