@@ -1,5 +1,5 @@
 ---
-title: Thilinihey Blog
+title: Blog
 Description: Blog2
 ---
 gibberish
