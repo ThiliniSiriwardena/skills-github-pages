@@ -1,1 +1,2 @@
 title: About
+layout: default
