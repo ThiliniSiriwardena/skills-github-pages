@@ -18,5 +18,23 @@ description: A programmer at heart. Analyzing stuff 24/7
 url: https://ThiliniSiriwardena.github.io
 #baseurl: "/projectname"
 
+github:
+  is_project_page: false
+
+github_profile:
+#  url: https://github.com/odan
+
+# Disqus comments
+comments: true
+
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://example.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.example.com/"
+    - GitHub Pages: "https://pages.example.com/"
+  Author's home: "http://example.com"
+
 author:
   name: Thilini Siriwardena
