@@ -2,6 +2,7 @@
 title: Blog
 layout: posts
 Description: Blog2
+comments: true
 published: true
 ---
 gibberish
