@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h2 class="post_title">
+  <h1>{{ page.title }}</h1>
+
+  <img src="https://odan.github.io/assets/images/dopitz2.png" width="36" height="36" alt="Daniel Opitz" class="avatar">
+  <div>Daniel Opitz</div>
+
+  {% if page.date %}
+    <small>{{ page.date | date_to_string }}</small>
+  {% endif %}
+</h2>
+
+{{ content }}
+
+{% if site.comments and page.comments %}
+  {% include utterances.html %}
+{% endif %}
