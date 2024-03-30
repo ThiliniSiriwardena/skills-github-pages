@@ -2,6 +2,7 @@
 title: Blog
 layout: posts
 Description: Blog2
+published: true
 ---
 gibberish
 ok\ something is wrong\
