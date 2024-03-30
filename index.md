@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Thilini's Blog
 ---
 gibberish
 ok\ something is wrong\
