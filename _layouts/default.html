@@ -2,21 +2,18 @@
 <html lang="{{ site.lang | default: " en-US" }}">
 <head>
     <meta charset="UTF-8">
-    {% seo %}
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    {% if page.keywords %}
-    <meta name="keywords" content="{{ page.keywords }}"/>
-    {% endif %}
+    
     <link rel="alternate" type="application/rss+xml" title="Subscribe to What's New"
           href="https://odan.github.io/feed.xml"/>
-    <!-- <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>-->
-    <!-- <link href='https://fonts.googleapis.com/css?family=JetBrains+Mono:wght@100' rel='stylesheet'>-->
+    
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=inter:400,700|jetbrains-mono:400" rel="stylesheet" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+    
     <script src="//code.jquery.com/jquery-3.4.1.slim.min.js"></script>
 </head>
 <body>
@@ -59,4 +56,3 @@
     </footer>
 </main>
 
-{% if site.google_analytics %}
