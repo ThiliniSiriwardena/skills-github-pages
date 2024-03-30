@@ -18,8 +18,9 @@ description: A programmer at heart. Analyzing stuff 24/7
 url: https://ThiliniSiriwardena.github.io
 #baseurl: "/projectname"
 
+#This removes the "View on Github" button
 github:
-  #is_project_page: false
+  is_project_page: false
 
 github_profile:
 #  url: https://github.com/odan
