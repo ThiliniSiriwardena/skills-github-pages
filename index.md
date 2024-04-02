@@ -4,6 +4,7 @@ layout: posts
 Description: Blog2
 comments: true
 published: true
+Keywords: PHP, MySql, Javascript, Data Analyst
 ---
 gibberish
 ok\ something is wrong\
