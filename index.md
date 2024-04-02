@@ -1,9 +1,9 @@
 ---
 title: Blog
 layout: posts
-Description: Blog2
 comments: true
 published: true
+Description: Blog2
 Keywords: PHP, MySql, Javascript, Data Analyst
 ---
 gibberish
