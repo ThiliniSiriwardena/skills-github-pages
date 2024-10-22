@@ -2,3 +2,5 @@ Just wanted to note here the changes I made.
 
 22.10.2024=> I deleted the mention of utterences in layout/posts as it gave a not found file error.(Later have to insert it again as it's a how comments are done(https://utteranc.es/)
       The link to Hello World blog post doesn't work only because it doesn't include "skills-github-pages/" in the URL.(I spent hours thinking there's something wrong with the page.)
+      Still searching as to why the other profiles image is linked on my blog post
+
