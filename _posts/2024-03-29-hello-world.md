@@ -1,7 +1,6 @@
 ---
 title: Hello World
 layout: post
-comments: true
 published: true
 Description:
 Keywords: blog,new
