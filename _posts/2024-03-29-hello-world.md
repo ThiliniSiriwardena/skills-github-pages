@@ -1,5 +1,5 @@
 ---
-title: Hello-World
+title: Hello World
 date: 2024-03-29
 ---
 Well here we go again. I created another blogger. 
